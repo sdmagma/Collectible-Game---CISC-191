@@ -11,4 +11,5 @@ public class CollectibleRoom implements Room
 	{
 		return collectible;
 	}
+	
 }
